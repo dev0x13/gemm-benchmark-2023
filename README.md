@@ -1,6 +1,6 @@
 # gemm-benchmark-2023
 
-This repository hosts a set of becnhmarks for modern (2023) high-performance floating-point GEMM implementations.
+This repository hosts a set of benchmarks for modern (2023) high-performance floating-point GEMM implementations.
 
 Implementaitons covered:
 * Naive C++
