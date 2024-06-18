@@ -9,6 +9,10 @@ Implementaitons covered:
 * OpenBLAS 0.3.25
 * Mojo 0.6.0
 
+The results and background were discussed in the following articles:
+* [Medium (EN)](https://medium.com/@dev0x13/a-first-look-at-the-performance-of-floating-point-gemm-implementation-for-cpu-in-mojo-d7d05299657a)
+* [Habr (RU)](https://habr.com/ru/articles/783138/)
+
 ## Running benchmarks
 
 1.  Build the Docker image:
